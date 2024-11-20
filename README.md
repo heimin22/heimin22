@@ -1,9 +1,33 @@
-```
-void main() {
-  print("Dart/Flutter");
-}
-```
+<p align="center">
+  <svg viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .text {
+        font-family: monospace;
+        font-size: 18px;
+        fill: #f8f8f2;
+        white-space: pre;
+        animation: typing 3s steps(25, end), blink-caret 0.5s step-end infinite;
+      }
+      @keyframes typing {
+        from { width: 0; }
+        to { width: 18ch; }
+      }
+      @keyframes blink-caret {
+        from, to { border-color: transparent; }
+        50% { border-color: orange; }
+      }
+    </style>
+    <rect width="100%" height="100%" fill="#282a36" />
+    <text x="10" y="50" class="text">
+      void main() {  
+        print("Dart/Flutter");
+      }
+    </text>
+  </svg>
+</p>
+
 ---
+
 <div >
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
