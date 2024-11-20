@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=E1E1E1&width=435&lines=Flutter;Android;iOS)](https://git.io/typing-svg)
+
 ---
+## Techs
 <div >
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
@@ -25,7 +27,8 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
 </div>
 
-Some stats
+---
+## Some stats
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=radical&layout=compact&hide_border=true" alt="Top Languages" style="width: 37%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=heimin22&show_icons=true&theme=radical&hide_border=true" alt="Stats" style="width: 49%;" />
