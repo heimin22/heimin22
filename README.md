@@ -26,7 +26,6 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
 </div>
 
----
 ## Some stats
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=radical&layout=compact&hide_border=true" alt="Top Languages" style="width: 37%;" />
