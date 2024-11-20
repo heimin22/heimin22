@@ -29,8 +29,10 @@ void main() {
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
 </div>
 
+---
+
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=radical&layout=compact" alt="Top Languages" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=radical&layout=compact" alt="Top Languages" style="width: 20%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=heimin22&show_icons=true&theme=radical" alt="Stats" style="width: 48%;" />
 </div>
 
