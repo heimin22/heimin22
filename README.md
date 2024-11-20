@@ -1,4 +1,4 @@
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=E1E1E1&width=435&lines=Flutter;Android;iOS" alt="Typing SVG" /></a>
 ---
 
 <div >
