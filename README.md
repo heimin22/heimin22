@@ -32,7 +32,8 @@ void main() {
 ---
 
 <div style="display: flex; justify-content: center; gap: 50px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=transparent&layout=compact&hide_border=true" alt="Top Languages" style="width: 37%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=dark#gh-dark-mode-only&layout=compact&hide_border=true" alt="Top Languages" style="width: 37%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=default#gh-light-mode-only&layout=compact&hide_border=true" alt="Top Languages" style="width: 37%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=heimin22&show_icons=true&theme=transparent&hide_border=true" alt="Stats" style="width: 49%;" />
 </div>
 
