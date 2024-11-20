@@ -32,7 +32,7 @@ void main() {
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=radical&layout=compact" alt="Top Languages" style="width: 36%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=radical&layout=compact" alt="Top Languages" style="width: 36.5%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=heimin22&show_icons=true&theme=radical" alt="Stats" style="width: 48%;" />
 </div>
 
