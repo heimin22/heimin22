@@ -13,6 +13,7 @@ void main() {
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/>
@@ -29,7 +30,7 @@ void main() {
 </div>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=radical&layout=compact)
----
-![Stats](https://github-readme-stats.vercel.app/api?username=heimin22&show_icons=true&theme=radical)
-
+<dl>
+	<dt>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=radical&layout=compact)</dt>
+	<dt>![Stats](https://github-readme-stats.vercel.app/api?username=heimin22&show_icons=true&theme=radical)</dt>
+</dl>
