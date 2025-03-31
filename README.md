@@ -1,37 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=E1E1E1&width=435&lines=Flutter;Android;iOS)](https://git.io/typing-svg)
-## Programming Languages
+## Technologies
 <div>
-	<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,python&theme=dark&perline=15" alt="Programming Languages" /></a>
-</div>
-
-## IDE & Code Editors
-<div>
-	<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,visualstudio&theme=dark&perline=15" alt="IDE & Code Editors" /></a>
-</div>
-
-## Frameworks & Platforms
-<div>
-	<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter&theme=dark&perline=15" alt="Frameworks & Platforms" /></a>
-</div>
-
-## Version Control
-<div>
-	<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,git&theme=dark&perline=15" alt="Version Control" /></a>
-</div>
-
-## Database
-<div>
-	<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,supabase,postgresql,sqlite&theme=dark&perline=15" alt="Database" /></a>
-</div>
-
-## Cloud Platforms
-<div>
-	<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp&theme=dark&perline=15" alt="My Skills" /></a>
-</div>
-
-## UI/UX
-<div>
-	<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=15" alt="My Skills" /></a>
+	<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,flutter,python,androidstudio,idea,pycharm,vscode,visualstudio,github,git,mysql,postgresql,sqlite,supabase,postman,gcp&theme=dark&perline=15" alt="My Skills" /></a>
 </div>
 
 ## Some stats
