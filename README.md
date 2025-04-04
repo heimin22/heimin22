@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=E1E1E1&width=435&lines=Flutter;Android;iOS)](https://git.io/typing-svg)
 ## Technologies
 <div>
-	<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,flutter,python,androidstudio,idea,pycharm,vscode,visualstudio,github,git,mysql,postgresql,sqlite,supabase,postman,gcp&theme=dark&perline=15" alt="My Skills" /></a>
+	<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,flutter,python,androidstudio,idea,pycharm,vscode,visualstudio,github,git,mysql,postgresql,sqlite,supabase,postman,gcp,expressjs,nodejs,npm,powershell,typescript,javascript&theme=dark&perline=15" alt="My Skills" /></a>
 </div>
 
 ## Some stats
