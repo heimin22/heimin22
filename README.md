@@ -8,3 +8,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=heimin22&show_icons=true&theme=radical&hide_border=true" alt="Stats" style="width: 49%;" />
 </div>
 
+## Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heimin22&bg_color=f5f5f5&color=151df4&line=6c9cea&point=12268c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
