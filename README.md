@@ -5,7 +5,7 @@
 
 ## Some stats
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=neon&layout=compact&hide_border=true" alt="Top Languages" style="width: 44%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=neon&layout=compact&hide_border=true" alt="Top Languages" style="width: 43%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=heimin22&show_icons=true&theme=neon&hide_border=true" alt="Stats" style="width: 56%;" />
 </div>
 
