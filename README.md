@@ -5,8 +5,8 @@
 
 ## Some stats
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=radical&layout=compact&hide_border=true" alt="Top Languages" style="width: 37%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=heimin22&show_icons=true&theme=radical&hide_border=true" alt="Stats" style="width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimin22&theme=neon&layout=compact&hide_border=true" alt="Top Languages" style="width: 37%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heimin22&show_icons=true&theme=neon&hide_border=true" alt="Stats" style="width: 49%;" />
 </div>
 
 ## Contribution Graph
