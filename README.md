@@ -10,4 +10,4 @@
 </div>
 
 ## Contribution Graph
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=heimin22&bg_color=f5f5f5&color=151df4&line=6c9cea&point=12268c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heimin22&bg_color=000000&color=f434e4&line=17d9b9&point=f434e4&area=true&hide_border=true&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
