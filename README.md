@@ -10,11 +10,4 @@
 </div>
 
 ## Contribution Graph
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=heimin22&bg_color=f5f5f5&color=151df4&line=6c9cea&point=12268c&area=true&hide_border=true"
-    alt="Rounded Activity Graph"
-    style="border-radius:24px;"
-  />
-</a>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heimin22&bg_color=f5f5f5&color=151df4&line=6c9cea&point=12268c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
