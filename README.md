@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&weight=600&size=30&duration=1700&pause=100&color=F5F5F5&vCenter=true&random=true&width=435&lines=Flutter;Android;iOS)](https://git.io/typing-svg)
 
 ## Technologies
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,python,androidstudio,idea,pycharm,vscode,visualstudio,github,git,mysql,postgresql,sqlite,supabase,postman,gcp,expressjs,nodejs,npm,powershell,typescript,javascript,docker,deno,neovim,firebase,apple,figma&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,python,androidstudio,idea,pycharm,vscode,visualstudio,github,git,mysql,postgresql,sqlite,supabase,postman,gcp,expressjs,nodejs,npm,powershell,typescript,javascript,docker,deno,neovim,firebase,apple,figma,linux,arch&theme=dark&perline=15)](https://skillicons.dev)
 
 ## Some stats
 <div style="display: flex; justify-content: center;">
