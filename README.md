@@ -23,7 +23,7 @@
 ## Trophies
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=heimin22&no-frame=false&column=10&margin-w=15&margin-h=15&title_color=fdd835&text_color=f5f5f5&bg_color=111827" 
+    src="https://github-profile-trophy.vercel.app/?username=heimin22&no-frame=false&column=7&margin-w=15&margin-h=15&title_color=fdd835&text_color=f5f5f5&bg_color=111827" 
     alt="GitHub Trophies" 
     style="width: 100%; min-width: 300px;" 
   />
