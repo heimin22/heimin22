@@ -3,7 +3,7 @@
 --- 
 
 ## Technologies
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,python,lua,androidstudio,idea,pycharm,vscode,visualstudio,github,gitlab,git,mysql,postgresql,sqlite,supabase,postman,gcp,expressjs,nodejs,npm,typescript,javascript,remix,docker,neovim,firebase,figma,linux,arch,powershell,md&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,python,lua,androidstudio,idea,pycharm,vscode,visualstudio,github,gitlab,git,mysql,postgresql,sqlite,supabase,postman,gcp,expressjs,nodejs,npm,bun,typescript,javascript,remix,docker,neovim,firebase,figma,linux,arch,powershell,md&theme=dark&perline=15)](https://skillicons.dev)
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
   <img 
