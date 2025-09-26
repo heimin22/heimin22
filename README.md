@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&weight=600&size=30&duration=1700&pause=100&color=F5F5F5&vCenter=true&random=true&width=435&lines=I+like+Flutter.;I+like+TypeScript.;Dart+is+good.;I+hate+Windows.;I+love+bread.;Main+OS:+CachyOS.;I+also+use+ZorinOS.;I+also+use+Pop!_OS.;I'm+interested+to+NixOS.;Setting+up+Hackintosh.;Linux+is+the+best.;I+love+fried+rice.;I+love+Neovim.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&weight=600&size=30&duration=1700&pause=100&color=F5F5F5&vCenter=true&random=true&width=435&lines=I+like+Flutter.;I+like+TypeScript.;Dart+is+good.;I+hate+Windows.;I+love+bread.;Main+OS:+CachyOS.;I'm+interested+to+NixOS.;Setting+up+Hackintosh.;Linux+is+the+best.;I+love+fried+rice.;I+love+Neovim.;)](https://git.io/typing-svg)
 
 --- 
 
@@ -30,5 +30,3 @@
 </div>
 
 ---
-
-I use arch btw.
