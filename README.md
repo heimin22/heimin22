@@ -12,10 +12,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heimin22&show_icons=true&title_color=fdd835&text_color=f5f5f5&bg_color=111827&icon_color=3949ab&border_radius=15&hide_border=true&rank_icon=percentile)
-![GitHub Streak](https://streak-stats.demolab.com/?user=heimin22&theme=dark&background=111827&ring=fdd835&fire=fdd835&currStreakLabel=f5f5f5&sideLabels=fdd835&currStreakNum=f5f5f5&sideNums=f5f5f5&dates=f5f5f5&border=111827&stroke=111827&border_radius=15)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heimin22&show_icons=true&title_color=fdd835&text_color=f5f5f5&bg_color=111827&icon_color=3949ab&border_radius=15&hide_border=true&rank_icon=percentile&card_width=420)
+![GitHub Streak](https://streak-stats.demolab.com/?user=heimin22&theme=dark&background=111827&ring=fdd835&fire=fdd835&currStreakLabel=f5f5f5&sideLabels=fdd835&currStreakNum=f5f5f5&sideNums=f5f5f5&dates=f5f5f5&border=111827&stroke=111827&border_radius=15&card_width=420)
 
 </div>
+
 
 ---
 
