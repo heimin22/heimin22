@@ -2,7 +2,7 @@
 
 --- 
 
-## Technologies
+## Technologies 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,androidstudio,vscode,github,gitlab,git,mysql,postgresql,sqlite,supabase,postman,gcp,vercel,cloudflare,expressjs,nodejs,npm,bun,typescript,javascript,remix,docker,neovim,firebase,figma,linux,arch,powershell&theme=dark&perline=15)](https://skillicons.dev)
 
 ---
@@ -16,7 +16,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=heimin22&theme=dark&background=111827&ring=fdd835&fire=fdd835&currStreakLabel=f5f5f5&sideLabels=fdd835&currStreakNum=f5f5f5&sideNums=f5f5f5&dates=f5f5f5&border=111827&stroke=111827&border_radius=15&card_width=400)
 
 </div>
-
 
 ---
 
