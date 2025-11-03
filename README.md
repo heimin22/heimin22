@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&weight=600&size=30&duration=1700&pause=100&color=F5F5F5&vCenter=true&random=true&width=435&lines=I+like+Flutter.;I+like+TypeScript.;Dart+is+good.;I+hate+Windows.;I+love+bread.;Main+OS:+CachyOS.;I+love+fried+rice.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&weight=600&size=30&duration=1700&pause=100&color=F5F5F5&vCenter=true&random=true&width=435&lines=I+love+Bread.;I+love+fried+rice.;)](https://git.io/typing-svg)
 
 --- 
 
